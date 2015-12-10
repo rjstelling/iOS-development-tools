@@ -19,3 +19,5 @@ sips -z 29 29 "$ITUNES_ARTWORK" --out "${FOLDER}/Icon29@1x.png"
 sips -z 58 58 "$ITUNES_ARTWORK" --out "${FOLDER}/Icon29@2x.png"
 sips -z 87 87 "$ITUNES_ARTWORK" --out "${FOLDER}/Icon29@3x.png"
 
+#iPad Pro
+sips -z 167 167 "$ITUNES_ARTWORK" --out "${FOLDER}/Icon83_5@2x.png"
